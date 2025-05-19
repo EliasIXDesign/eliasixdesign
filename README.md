@@ -4,7 +4,7 @@
 
 <h2>🤔 A bit about myself</h2>
 
-<b>I put User-Centered into everything I do, what amazes me is the power of listening and iteration, two values that I put into the forefront of my work ethic.</b>
+<b>I put User-centered ... into everything I do, what amazes me is the power of listening and iteration, two values that I put into the forefront of my work ethic.</b>
 
 <h2>🔭 I’m currently working on ... </h2>
 
@@ -18,7 +18,10 @@
 
 <b>UX Research project #2</b>
 
+<h3>💬 PowerBi Projects:</h3>
+<b>PowerBi project #1</b>
 
+<b>PowerBi projects #2</b>
 
 
 
